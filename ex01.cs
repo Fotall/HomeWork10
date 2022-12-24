@@ -2,7 +2,7 @@
 // заполненный случайными вещественными числами.
 // m = 3, n = 4.
 // 0,5 7 -2 -0,2
-/*
+
 int[,] matrix = new int[3, 4];
 
 void PrintArray(int[,] matrix)
@@ -63,4 +63,3 @@ void FillArray(double[,] matrix)
 
 FillArray(matrix);
 PrintArray(matrix);
-*/
